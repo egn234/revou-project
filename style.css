@@ -1,0 +1,9 @@
+.container-external{
+    border: 1px solid black;
+    padding: 5px;
+}
+.container-external > p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
